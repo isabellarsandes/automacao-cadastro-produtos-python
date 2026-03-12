@@ -59,19 +59,7 @@ O script executa as seguintes etapas:
 
 - automação de tarefas operacionais  
 - controle de mouse e teclado via código  
-- leitura e manipulação de dados em CSV  
-- uso de estruturas de repetição e condicionais  
 - aplicação prática de scripts para aumento de produtividade  
-
----
-
-## 🚀 Possíveis evoluções
-
-- criação de interface gráfica  
-- logs de execução  
-- tratamento de erros  
-- integração com APIs ou banco de dados  
-- execução em ambiente corporativo real  
 
 ---
 
