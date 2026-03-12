@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido durante a Jornada Python, com o objetivo de automatizar tarefas repetitivas utilizando a linguagem Python.
+Este projeto foi desenvolvido com o objetivo de automatizar tarefas repetitivas utilizando a linguagem Python.
 
 A solução simula a atuação de um usuário no computador, realizando o cadastro automático de produtos em um sistema web a partir de uma base de dados em formato CSV.
 
